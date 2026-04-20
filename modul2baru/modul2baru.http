@@ -1,0 +1,6 @@
+@modul2baru_HostAddress = http://localhost:5021
+
+GET {{modul2baru_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

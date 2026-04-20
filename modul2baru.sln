@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modul2baru", "modul2baru\modul2baru.csproj", "{473854C7-9E1B-417E-AD0F-CEA107EE6A77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473854C7-9E1B-417E-AD0F-CEA107EE6A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473854C7-9E1B-417E-AD0F-CEA107EE6A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473854C7-9E1B-417E-AD0F-CEA107EE6A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473854C7-9E1B-417E-AD0F-CEA107EE6A77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D9E3BD7-CE8B-4C4C-AE3B-CA1360DD6C6E}
+	EndGlobalSection
+EndGlobal
